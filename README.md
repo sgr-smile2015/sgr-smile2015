@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🤔 Hi there 👋
 
 <!--
 **sgr-smile2015/sgr-smile2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sgr-smile2015&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sgr-smile2015&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sgr-smile2015&theme=github)
